@@ -1,7 +1,7 @@
 > Authors 
-- M0hamed
-- Adiba
-- Funbee
+- M0hamed (m0hamed.essamit2000@gmail.com)
+- Adiba (1998adiba@gmail.com)
+- Funbee (phunbeee3@gmail.com)
 
 
 # Advances in Docking
@@ -38,3 +38,5 @@ In conclusion, many existing docking programs are utilizing global optimization 
 10.	Chen W, Gilson MK, Webb SP, Potter MJ. Modeling Protein−Ligand Binding by Mining Minima. Journal of Chemical Theory and Computation 2010; 6: 3540-3557.
 11.	Ryde U, Söderhjelm P. Ligand-Binding Affinity Estimates Supported by Quantum-Mechanical Methods. Chemical Reviews 2016; 116: 5520-5566.
 
+
+LinkedIn post: https://www.linkedin.com/posts/adiba-farha-60a27a181_hackbiointernship2024-bioinformaticsindrugdiscovery-activity-7239668343790526466-eoHL/
